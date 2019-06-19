@@ -20,4 +20,4 @@ UnityEngine : La librairie de base pour utilisé la plupart des composants Unity
 UnityEngine.UI : Pour pouvoir utilisé les composants GUI
 RestCLient : Pour communiquer avec la base de donnée
 
-[diagramme d'activité] (https://imgur.com/JZ8Y5e1)
+[diagramme d'activité] (https://imgur.com/JZ8Y5e1.img)
