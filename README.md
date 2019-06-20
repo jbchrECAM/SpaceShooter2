@@ -21,3 +21,5 @@ UnityEngine.UI : Pour pouvoir utilisé les composants GUI
 RestCLient : Pour communiquer avec la base de donnée
 
 [diagramme d'activité] (https://imgur.com/JZ8Y5e1.png)
+
+[diagramme de classe] (https://imgur.com/HOCZiqs.png)
